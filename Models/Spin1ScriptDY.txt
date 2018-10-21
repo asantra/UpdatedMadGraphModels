@@ -1,0 +1,4 @@
+import model mono_spinone_beta
+generate  p p > a > mm+ mm-
+output Pre7A
+

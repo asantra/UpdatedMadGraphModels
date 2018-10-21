@@ -1,0 +1,15 @@
+launch Pre5For
+analysis=MADANALYSIS_4
+set run_card ebeam1 6500
+set ebeam2 6500
+set lpp1 0
+set lpp2 0
+set pdlabel nn23lo1
+set lhaid 230000
+set nevents 1000
+set dynamical_scale_choice -1
+set fixed_couplings False
+set param_card mass 25 125
+set mass 4110000 6000
+set decay 4110000 0.000000e+0
+set gch 1 1.0

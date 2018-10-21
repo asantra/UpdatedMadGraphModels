@@ -1,0 +1,4 @@
+import model mono_spinhalf_beta_kappa
+generate a a > mm+ mm-
+output Pre5
+

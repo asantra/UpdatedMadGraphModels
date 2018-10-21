@@ -1,0 +1,4 @@
+import model mono_spinzero_beta
+generate p p > a > mm+ mm-
+output Pre5For
+
