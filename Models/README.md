@@ -13,3 +13,7 @@ This is the repository of MadGraph UFO models. These models are well tested for 
 6. If you don't change the part 1 of the script at all (you only need to change it to import different monopole models), then you just need to use steps 1-4 only once. After that, in step 5, change the mass parameter in script 2 and run for different mass points.
 
 7. For different spin models, one just needs to import those corresponding models. 
+
+
+8. The naming convention: beta independent models - mono_spinzero, mono_spinhalf, mono_spinone.
+                          beta dependent models - mono_spinzero_beta, mono_spinhalf_beta, mono_spinone_beta. 
