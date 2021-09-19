@@ -196,7 +196,7 @@ MMM = Parameter(name = 'MMM',
 kappamon = Parameter(name = 'kappamon',
                      nature = 'external',
                      type = 'real',
-                     value = 10,
+                     value = 0,
                      texname = '\\kappa',
                      lhablock = 'FRBlock',
                      lhacode = [ 2 ])
