@@ -1,3 +1,5 @@
+import function_library 
+import object_library 
 import particles
 import couplings
 import lorentz
@@ -28,6 +30,7 @@ all_functions = function_library.all_functions
 #all_decays = decays.all_decays
 
 
-__author__ = "N. Christensen, C. Duhr"
+__author__  = "A. Santra"
 __version__ = "1.3"
-__email__ = "neil@pa.msu.edu, claude.duhr@uclouvain.be"
+__email__   = "santra.arka@ific.uv.es, santra.arka@gmail.com"
+__arxiv__   = "arXiv: 1808.08942"
