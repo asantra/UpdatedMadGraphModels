@@ -16,4 +16,8 @@ This is the repository of MadGraph UFO models. These models are well tested for 
 
 
 8. The naming convention: beta independent models - mono_spinzero, mono_spinhalf, mono_spinone.
-                          beta dependent models - mono_spinzero_beta, mono_spinhalf_beta, mono_spinone_beta. 
+                          beta dependent models - mono_spinzero_beta, mono_spinhalf_beta, mono_spinone_beta.
+                          
+                          
+                       
+---> For MadGraph with python3, please use the py3branch of this respository. 
