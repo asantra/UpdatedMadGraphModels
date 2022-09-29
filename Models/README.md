@@ -20,4 +20,4 @@ This is the repository of MadGraph UFO models. These models are well tested for 
                           
                           
                        
----> For MadGraph with python3, please use the py3branch of this respository. 
+---> For MadGraph with python3, please use the py3Branch of this respository. 
