@@ -14,6 +14,15 @@ This is the repository of MadGraph UFO models. These models are well tested for 
 
 7. For different spin models, one just needs to import those corresponding models. 
 
+8. IMPORTANT: Only for beta dependent models, when you run the part 2 of the script, remember to add this line in the run_card.dat after False = fixed_fac_Scale: False = fixed_couplings   .
 
-8. The naming convention: beta independent models - mono_spinzero, mono_spinhalf, mono_spinone.
+8a. Your run_card after the above modification should have these three lines:
+
+False = fixed_ren_scale
+
+False = fixed_fac_scale
+
+False = fixed_couplings
+
+9. The naming convention: beta independent models - mono_spinzero, mono_spinhalf, mono_spinone.
                           beta dependent models - mono_spinzero_beta, mono_spinhalf_beta, mono_spinone_beta. 
