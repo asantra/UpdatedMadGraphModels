@@ -5,7 +5,7 @@ This is the repository of MadGraph UFO models. These models are well tested for 
 2. A new folder named Pre5For will be generated.
 
 3. Go to Pre5For/Sources and open genps.inc.
-
+3a
 4. Use the absolute path of 'maxparticles.inc' on line 5.
 
 5. Run the part 2 of the script: ./bin/mg5_aMC Spin0ScriptDY2.txt
