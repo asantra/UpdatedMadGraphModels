@@ -19,7 +19,9 @@ This is the repository of MadGraph UFO models. These models are well tested for 
 8a. Your run_card after the above modification should have these three lines:
 
 False = fixed_ren_scale
+
 False = fixed_fac_scale
+
 False = fixed_couplings
 
 9. The naming convention: beta independent models - mono_spinzero, mono_spinhalf, mono_spinone.
